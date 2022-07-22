@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-it('displays two todo items by default', () => {
+it('Should go to home page', () => {
   cy.visit("/")
 })
 
